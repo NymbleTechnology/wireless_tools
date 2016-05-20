@@ -1,0 +1,13 @@
+# artifacts
+*.o
+*.d
+*.so
+*.so.*
+
+# executables
+iwconfig
+iwevent
+iwgetid
+iwlist
+iwpriv
+iwspy
